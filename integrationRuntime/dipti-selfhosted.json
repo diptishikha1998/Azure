@@ -1,0 +1,9 @@
+{
+	"name": "dipti-selfhosted",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"selfContainedInteractiveAuthoringEnabled": true
+		}
+	}
+}

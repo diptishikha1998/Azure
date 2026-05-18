@@ -1,0 +1,15 @@
+{
+	"name": "Azuredatafactorydipti12",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1cb30aff-4c61-46a4-adeb-55a04e827b01",
+		"tenantId": "fb5e4f68-5a26-4213-b4c0-dac958400c9f"
+	}
+}
